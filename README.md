@@ -59,3 +59,20 @@
  ⚡ [Sabertooth](https://www.dimensionengineering.com/datasheets/Sabertooth2x25.pdf)
   
  ⚡ [ZED](https://www.stereolabs.com/assets/datasheets/zed-2i-datasheet-feb2022.pdf)
+
+  
+  
+  
+  
+  
+## <p align="center"> ____________________________________________________________ 
+## <p align="center"> Baterias  
+## <p align="center"> ____________________________________________________________ 
+  
+  
+#### <p align="left"> ⚡Chumbo </p>
+
+
+
+#### <p align="left"> ⚡Lí-Ion </p>
+#### <p align="left"> ⚡Li-Po </p>
