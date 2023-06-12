@@ -37,3 +37,9 @@
 <img src="circuito note.jpeg" width="500">
 </figure>  
   
+
+## <p align="center"> ____________________________________________________________ 
+## <p align="center"> DataSheets  
+## <p align="center"> ____________________________________________________________ 
+
+ ⚡ [Arduino DUE](https://docs.arduino.cc/hardware/due)
