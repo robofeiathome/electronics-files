@@ -21,7 +21,7 @@
 
 
 <figure align="center">
-<img src="circuito base.jpeg" width="500">
+<img src="circuito base real.jpeg" width="500">
 </figure>  
 
 ### Manip:
