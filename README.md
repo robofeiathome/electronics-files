@@ -16,11 +16,24 @@
 ### Base:
   
 <figure align="center">
-<img src="doc/overview_tf.png" width="500">
-<p>Navigation Stack Setup.</p>
+<img src="circuito base.jpeg" width="500">
+</figure> </p>
+
+
+<figure align="center">
+<img src="circuito base.jpeg" width="500">
 </figure>  
-  
-  
+
 ### Manip:
+
+<figure align="center">
+<img src="circuito manip.jpeg" width="500">
+</figure> 
+  
+  
 ### Note:
+  
+<figure align="center">
+<img src="circuito note.jpeg" width="500">
+</figure>  
   
