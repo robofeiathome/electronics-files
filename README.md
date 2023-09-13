@@ -13,7 +13,7 @@
 ## <p align="center"> ____________________________________________________________ 
   
   
-### Base:
+### Base: LIGAR COM LI-PO OU LI-ION
   
 <figure align="center">
 <img src="circuito base.jpeg" width="500">
@@ -24,14 +24,14 @@
 <img src="circuito base real.jpeg" width="500">
 </figure>  
 
-### Manip:
+### Manip: LIGAR COM PI-PO OU LI-ION
 
 <figure align="center">
 <img src="circuito manip.jpeg" width="500">
 </figure> 
   
   
-### Note:
+### Note: LIGAR APENAS COM LIPO
   
 <figure align="center">
 <img src="circuito note.jpeg" width="500">
