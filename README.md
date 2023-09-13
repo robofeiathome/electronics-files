@@ -75,4 +75,4 @@
 
 
 #### <p align="left"> ⚡Lí-Ion </p>
-#### <p align="left"> ⚡Li-Po </p>
+#### <p align="left"> ⚡Li-Po (https://drive.google.com/file/d/1wd6S6YOG2qtSnBlQ4zB26G83Uym7335h/view?usp=sharing)
