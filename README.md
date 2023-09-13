@@ -74,5 +74,5 @@
 
 
 
-#### <p align="left"> ⚡Lí-Ion </p>
+#### <p align="left"> ⚡[Chumbo](https://drive.google.com/file/d/1B7hFI7lAur2T7CWdjDPXX8h06S7SDRzq/view?usp=sharing)
 #### <p align="left"> ⚡[Li-Po](https://drive.google.com/file/d/1wd6S6YOG2qtSnBlQ4zB26G83Uym7335h/view?usp=sharing)
