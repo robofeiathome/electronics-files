@@ -24,7 +24,7 @@
 <img src="circuito base real.jpeg" width="500">
 </figure>  
 
-### Manip: LIGAR COM PI-PO OU LI-ION
+### Manip: LIGAR COM LI-PO OU LI-ION
 
 <figure align="center">
 <img src="circuito manip.jpeg" width="500">
